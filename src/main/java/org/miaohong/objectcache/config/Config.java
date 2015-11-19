@@ -25,7 +25,6 @@ public class Config {
         this.listenPort = listenPort;
     }
 
-
     public static Config getInstance() {
         return _instance;
     }
